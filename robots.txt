@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://layzox-website-nextgen.vercel.app/sitemap.xml
